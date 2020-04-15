@@ -15,10 +15,10 @@ Data recource: UCI machine learning repository
 This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
 
 ### Report: 
-please see the 'Report.pdf' or 'Report.ipynb'.
+please see the 'Default_Credit_Card_Report.pdf' or 'Default_Credit_Card_Report.ipynb'.
 
 ### Code:
-please see the 'Report.ipynb'.
+please see the 'Default_Credit_Card_Report.ipynb'.
 
 ### Data:
 please see the 'UCI_Credit_Card.csv'
