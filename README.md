@@ -20,5 +20,8 @@ please see the 'Report.pdf' or 'Report.ipynb'.
 ### Code:
 please see the 'Report.ipynb'.
 
+### Data:
+please see the 'UCI_Credit_Card.csv'
+
 Thanks!
 
